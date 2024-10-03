@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Sxnny-s/Sxnny-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Engineer
 
-Here are some ideas to get you started:
+### 🌱 Learning Every Day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- JavaScript and React 
+
+## 💬 Hobbies
+- PC Building 
+- Reading
+
+## 📫 How to Reach Me
+- Email: wiseamenra1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/wise-amen-ra-4b8302315/
+
+## 😄 Pronouns
+- Your pronouns: He/Him
+
+## ⚡ Fun Fact
+- Fun Fact: “I’m an avid runner and love participating in 5ks!
