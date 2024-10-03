@@ -15,4 +15,4 @@
   - Your pronouns: He/Him
 
 ## ⚡ Fun Fact
-  - Fun Fact: “I’m an avid runner and love participating in 5ks!
+  - Fun Fact: I’m an avid runner and love participating in 5ks!
