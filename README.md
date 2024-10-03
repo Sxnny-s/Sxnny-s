@@ -1,7 +1,5 @@
 ## Software Engineer
 
-### 🌱 Learning Every Day
-
 ## 🌱 Currently Learning
   - JavaScript and React 
 
