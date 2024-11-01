@@ -1,6 +1,6 @@
 ## Software Engineer
 
-## 🌱 Currently Learning
+## 🌱 Currently Working on (Demo day project)
   - JavaScript and React 
 
 ## 💬 Hobbies
