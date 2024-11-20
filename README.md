@@ -1,18 +1,33 @@
-## Software Engineer
+## Hello, I'm Wise Amen Ra! 👋
 
-## 🌱 Currently Working on (Demo day project)
-  - JavaScript and React 
+### 🌱 Currently Working On
+- **Demo Day Project**: JavaScript & React
 
-## 💬 Hobbies
-  - PC Building 
-  - Reading
+### 💻 Skills
+- **Languages**: JavaScript, Python, HTML, CSS
+- **Frameworks**: React, Node.js
+- **Databases**: MongoDB, SQL
+- **Tools**: Git, Docker, VS Code, Jest
 
-## 📫 How to Reach Me
-  - Email: wiseamenra1@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/wise-amen-ra-4b8302315/
+### 💬 Hobbies
+- PC Building
+- Reading
+- Running (I love participating in 5Ks! 🏃‍♂️)
 
-## 😄 Pronouns
-  - My pronouns: He/Him
+### 🧩 Featured Projects
+- [Personal Auth & Expense](https://github.com/Sxnny-s/Personal-auth-expense): A full-stack project for handling user authentication and expenses tracking.
+- [Personal Auth & Run](https://github.com/Sxnny-s/Personal-auth-Run): A full-stack project designed for user authentication and tracking running activities.
 
-## ⚡ Fun Fact
-  - Fun Fact: I’m an avid runner and love participating in 5ks!
+### 🌐 Live Demos
+- [Personal Auth & Expense Demo](https://fullsstack-expense-production.up.railway.app/login): A live demo of the expense tracking application.
+- [Personal Auth & Run Demo](https://fullstack-run-production.up.railway.app/login): A live demo of the running activity tracking application.
+
+### 📫 How to Reach Me
+- Email: wiseamenra1@gmail.com
+- LinkedIn: [Wise Amen Ra](https://www.linkedin.com/in/wise-amen-ra-4b8302315/)
+
+### 😄 Pronouns
+- He/Him
+
+### ⚡ Fun Fact
+- I’m an avid runner and love participating in 5Ks. My personal best is [your best time], and I'm always aiming to improve my time with each race!
