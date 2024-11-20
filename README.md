@@ -16,7 +16,7 @@
 
 ### 🧩 Featured Projects
 - [Full Stack Expense Tracker](https://github.com/Sxnny-s/Personal-auth-expense): A full-stack project for handling user authentication and expenses tracking.
-- [Full Stack Runnif workout log](https://github.com/Sxnny-s/Personal-auth-Run): A full-stack project designed for user authentication and tracking running activities.
+- [Full Stack Running workout log](https://github.com/Sxnny-s/Personal-auth-Run): A full-stack project designed for user authentication and tracking running activities.
 
 ### 🌐 Live Demos
 - [Personal Auth & Expense Demo](https://fullsstack-expense-production.up.railway.app/login): A live demo of the expense tracking application.
