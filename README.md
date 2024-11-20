@@ -30,4 +30,4 @@
 - He/Him
 
 ### ⚡ Fun Fact
-- I’m an avid runner and love participating in 5Ks. My personal best is [your best time], and I'm always aiming to improve my time with each race!
+- I’m an avid runner and love participating in 5Ks. My personal best is 17:44, and I'm always aiming to improve my time with each race!
